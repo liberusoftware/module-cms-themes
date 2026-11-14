@@ -1,12 +1,12 @@
 {
-    "name": "module-cms-themes",
-    "package": "liberusoftware/module-cms-themes",
-    "version": "0.1.0",
-    "layers": [
-        "core",
-        "filament"
-    ],
-    "service_providers": [
-        "Liberu\\Cms\\Themes\\ThemesServiceProvider"
-    ]
+  "name": "module-cms-themes",
+  "package": "liberusoftware/module-cms-themes",
+  "version": "0.1.1",
+  "layers": [
+    "core",
+    "filament"
+  ],
+  "service_providers": [
+    "Liberu\\Cms\\Themes\\ThemesServiceProvider"
+  ]
 }
